@@ -152,3 +152,7 @@ Shut it down manually with Ctrl-C.
 
 [travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
 [travis-badge-url]: https://travis-ci.org/angular/quickstart
+
+------------------------------------------------------
+Help to create snippet -
+https://github.com/johnpapa/vscode-angular2-snippets
